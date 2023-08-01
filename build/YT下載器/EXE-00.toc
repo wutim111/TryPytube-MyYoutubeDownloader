@@ -1,5 +1,5 @@
 ('C:\\Users\\吳盛正\\桌面\\VScode\\data\\py\\pytube\\dist\\YT下載器.exe',
- True,
+ False,
  False,
  False,
  ['C:\\Users\\吳盛正\\桌面\\VScode\\data\\py\\pytube\\ShiHoIcon.ico'],
@@ -2867,7 +2867,7 @@
  [],
  False,
  False,
- 1690855903,
- [('run.exe',
-   'C:\\Users\\吳盛正\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+ 1690856385,
+ [('runw.exe',
+   'C:\\Users\\吳盛正\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')])
