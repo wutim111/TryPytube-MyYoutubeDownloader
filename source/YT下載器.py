@@ -8,13 +8,13 @@ import base64
 
 def Button_Event (type:str):
     Dir_path='./YT下載器'
-    address=entry.get()
+    Url=entry.get()
     
     try:
-        yt=YouTube(address)
+        yt=YouTube(Url)
     except:
         messagebox.showerror('下載失敗' ,'下載發生錯誤,請檢察網址')
-    if YouTube(address).title !='' :
+    if YouTube(Url).title !='' :
         Dir_path+='/'+yt.title
         if type=='mp4' :
             fileName=Dir_path+'/'+yt.title+'.mp4'
