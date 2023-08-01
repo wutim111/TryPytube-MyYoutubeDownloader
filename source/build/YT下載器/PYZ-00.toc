@@ -1,4 +1,4 @@
-('C:\\Users\\吳盛正\\桌面\\VScode\\data\\py\\pytube\\build\\YT下載器\\PYZ-00.pyz',
+('C:\\Users\\吳盛正\\桌面\\VScode\\data\\py\\pytube\\source\\build\\YT下載器\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\吳盛正\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
    'PYMODULE'),
